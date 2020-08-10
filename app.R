@@ -16,6 +16,7 @@ library(jsonlite)
 library(tidyverse)
 library(ggthemes)
 library(gridExtra)
+options(scipen=999)
 
 #download.file("http://www.bcv.org.ve", destfile = "bdv.html")
 
