@@ -1,0 +1,13 @@
+name: dolarBcv
+title: dolarBcv
+username:
+account: magcdev
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2467984
+bundleId: 3497141
+url: https://magcdev.shinyapps.io/dolarBcv/
+when: 1597065282.32381
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: airtm.html|bdv.html|bdvIdi.html
